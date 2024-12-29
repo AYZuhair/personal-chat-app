@@ -1,0 +1,8 @@
+# backend/requirements.txt
+fastapi==0.109.0
+uvicorn==0.27.0
+python-dotenv==1.0.0
+groq==0.4.2
+langchain-core==0.1.15
+langchain-groq==0.0.6
+pydantic==2.5.3
